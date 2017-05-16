@@ -1,5 +1,4 @@
-# SLAM-extended-kalman-filter
-
+# Extended-kalman-filter
 
 Extented kalman filter implementation using C++
 
